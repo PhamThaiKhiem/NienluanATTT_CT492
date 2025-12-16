@@ -13,7 +13,7 @@ Mục tiêu:
 2. Dataset
 2.1 Dataset sử dụng
 Tên dataset: ISCXVPN2016
-Nguồn: Đại học New Brunswick (Canada)
+Nguồn: https://www.unb.ca/cic/datasets/vpn.html
 Loại dữ liệu: Network traffic flow features
 Số lớp:
   Binary: VPN, Non-VPN
